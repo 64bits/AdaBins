@@ -1,6 +1,7 @@
 *.pyc
 __pycache__/
 .env
+venv/
 .idea/
 predictions_nyu/
 predictions_kitti/
